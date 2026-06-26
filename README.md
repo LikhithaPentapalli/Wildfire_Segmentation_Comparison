@@ -196,10 +196,10 @@ This project is developed for academic and research purposes.
 ## 📷 Sample Results
 ### Model Comparison
 <p align="center">
-<img src="outputs/model_comparison.png" width="900">
+<img src="[outputs/model_comparison.png](https://github.com/LikhithaPentapalli/Wildfire_Segmentation_Comparison/blob/main/Wildfire_Monitoring/outputs/model-comparison.png)" width="900">
 </p>
 
 ### Fire Severity Assessment
 <p align="center">
-<img src="outputs/fire_severity.png" width="700">
+<img src="[outputs/fire_severity.png](https://github.com/LikhithaPentapalli/Wildfire_Segmentation_Comparison/blob/main/Wildfire_Monitoring/outputs/fire-severity.png)" width="700">
 </p>
