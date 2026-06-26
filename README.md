@@ -78,9 +78,9 @@ DeepLabV3+ combines Atrous Spatial Pyramid Pooling (ASPP) with an encoder-decode
 8. Comparative performance evaluation
 
 ## 📁 Repository Structure
-
-Wildfire-Segmentation-Comparison/
-│                                                                                            
+```
+Deep-Learning-Wildfire-Monitoring/
+│
 ├── notebooks/
 │   └── Wildfire_Monitoring.ipynb
 │
@@ -96,6 +96,7 @@ Wildfire-Segmentation-Comparison/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+```
 
 ## ⚙️ Installation
 
