@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red) ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 # Wildfire_Segmentation_Comparison
 A deep learning-based wildfire monitoring framework for semantic segmentation, wildfire region analysis, fire severity assessment, and comparative evaluation of multiple segmentation models using the FLAME dataset.
 
@@ -14,7 +15,6 @@ The segmented wildfire regions are further analyzed to estimate the fire-affecte
 Based on experimental evaluation, the best-performing model is selected for future development toward real-world wildfire monitoring applications.
 
 ## 🎯 Objectives
-
 - Perform wildfire semantic segmentation using deep learning.
 - Compare U-Net, Attention U-Net, and DeepLabV3+.
 - Evaluate model performance using Dice Score and IoU.
@@ -22,8 +22,15 @@ Based on experimental evaluation, the best-performing model is selected for futu
 - Classify wildfire severity into Low, Moderate, and High Risk.
 - Identify the most suitable segmentation model for future wildfire monitoring systems.
 
-## 📂 Dataset
+## Key Features
+- Wildfire semantic segmentation
+- Comparison of three deep learning models
+- Fire severity estimation
+- Pixel-wise burned area analysis
+- Risk level classification
+- Comparative evaluation using Dice Score and IoU
 
+## 📂 Dataset
 Dataset Used:
 **FLAME (Fire Luminosity Airborne-based Machine Learning Evaluation) Dataset**
 The dataset contains UAV-based wildfire RGB images along with pixel-level segmentation masks for wildfire detection and semantic segmentation.
@@ -38,7 +45,6 @@ Dataset Link:
 https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
 
 ## 🧠 Deep Learning Models
-
 ### 1. U-Net
 U-Net is a convolutional neural network specifically designed for image segmentation. It consists of an encoder-decoder architecture with skip connections that preserve spatial information, making it highly effective for pixel-level segmentation tasks.
 
@@ -190,6 +196,20 @@ This project is inspired by the following research works:
 - NumPy
 - Matplotlib
 
+## Project Status
+Current Stage
+- U-Net Completed
+- Attention U-Net Completed
+- DeepLabV3+ Completed
+- Model Comparison Completed
+- Fire Severity Assessment Completed
+- Future Work Analysis Completed
+
+Next Phase
+- Wildfire Spread Prediction
+- Explainable AI
+- Risk Mapping
+
 ## 📄 License
 This project is developed for academic and research purposes.
 
@@ -203,3 +223,4 @@ This project is developed for academic and research purposes.
 <p align="center">
 <img src="Wildfire_Monitoring/outputs/fire-severity.png" width="700">
 </p>
+
