@@ -1,0 +1,95 @@
+ 
+====================================================================================================
+
+IMAGE 1
+------------------------------------------------------------
+
+U-NET
+Prediction Min : 2.6522226e-17
+Prediction Max : 0.999969
+Prediction Mean: 0.012778069
+Fire Pixels Predicted: 738.0
+Ground Truth Fire Pixels: 412.0
+Fire Percentage: 1.1439022878045757
+Risk Level: Moderate Risk
+
+ATTENTION U-NET
+Prediction Min : 1.0148812e-13
+Prediction Max : 0.999894
+Prediction Mean: 0.011865759
+Fire Pixels Predicted: 685.0
+Ground Truth Fire Pixels: 412.0
+Fire Percentage: 1.0617521235042469
+Risk Level: Moderate Risk
+
+DEEPLABV3+
+Prediction Min : 0.0
+Prediction Max : 0.99999964
+Prediction Mean: 0.010185857
+Fire Pixels Predicted: 644.0
+Ground Truth Fire Pixels: 412.0
+Fire Percentage: 0.9982019964039928
+Risk Level: Low Risk
+====================================================================================================
+
+IMAGE 2
+------------------------------------------------------------
+
+U-NET
+Prediction Min : 7.719982e-22
+Prediction Max : 0.9999999
+Prediction Mean: 0.009427926
+Fire Pixels Predicted: 525.0
+Ground Truth Fire Pixels: 277.0
+Fire Percentage: 0.813751627503255
+Risk Level: Low Risk
+
+ATTENTION U-NET
+Prediction Min : 7.773202e-15
+Prediction Max : 0.9998166
+Prediction Mean: 0.006835171
+Fire Pixels Predicted: 376.0
+Ground Truth Fire Pixels: 277.0
+Fire Percentage: 0.5828011656023312
+Risk Level: Low Risk
+
+DEEPLABV3+
+Prediction Min : 1.3228557e-30
+Prediction Max : 1.0
+Prediction Mean: 0.0063304272
+Fire Pixels Predicted: 390.0
+Ground Truth Fire Pixels: 277.0
+Fire Percentage: 0.604501209002418
+Risk Level: Low Risk
+====================================================================================================
+
+IMAGE 3
+------------------------------------------------------------
+
+U-NET
+Prediction Min : 2.2320143e-18
+Prediction Max : 0.9999975
+Prediction Mean: 0.01640561
+Fire Pixels Predicted: 995.0
+Ground Truth Fire Pixels: 605.0
+Fire Percentage: 1.5422530845061688
+Risk Level: Moderate Risk
+
+ATTENTION U-NET
+Prediction Min : 1.3615455e-15
+Prediction Max : 0.99997306
+Prediction Mean: 0.016813012
+Fire Pixels Predicted: 987.0
+Ground Truth Fire Pixels: 605.0
+Fire Percentage: 1.5298530597061193
+Risk Level: Moderate Risk
+
+DEEPLABV3+
+Prediction Min : 4.5358172e-29
+Prediction Max : 0.99995434
+Prediction Mean: 0.012249487
+Fire Pixels Predicted: 778.0
+Ground Truth Fire Pixels: 605.0
+Fire Percentage: 1.2059024118048236
+Risk Level: Moderate Risk
+====================================================================================================
